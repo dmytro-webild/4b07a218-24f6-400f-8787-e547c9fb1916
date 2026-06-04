@@ -282,7 +282,7 @@ export default function LandingPage() {
       ]}
       title="ФИКРХОИ МИЧОЗОНИ МО  "
       description="АКСАРИ МИЗОЧОНИ МО ДАР БОРАИ ТАЬМИ БУРГЕРХО ВА МУХИТИ ОШХОНАИ МО ФИКРХОИ ХУБ БАЕЕН КАРДААНД"
-      tag="Reviews"
+      tag="ОТЗЫВХО "
       tagAnimation="blur-reveal"
       buttonAnimation="blur-reveal"
       topMarqueeDirection="right"
