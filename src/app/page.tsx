@@ -393,7 +393,8 @@ export default function LandingPage() {
           ],
         },
       ]}
-      copyrightText="© 2026 All Star Burgers. TAJIKISTAN."
+      copyrightText="© 2026 All Star Burgers. TAJIKISTAN.
++992997000912 +992710238778"
     />
   </div>
       </ReactLenis>
