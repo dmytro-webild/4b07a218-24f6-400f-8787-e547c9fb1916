@@ -295,7 +295,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       names={[
         "Brooklyn Foodie",        "NYC Eats Magazine",        "DeliverHub",        "Gourmet Critics Guild",        "Local Bites Blog",        "Best of Brooklyn Awards",        "Food & Wine Daily"]}
-      title="Recognized & Loved"
+      title="ДУСДОШТАИ ХУДРО ИНТИХОБ КУН "
       description="Proudly featured in local culinary guides and trusted by Brooklyn's most discerning food critics and popular platforms."
       tag="Our Partners"
       tagAnimation="blur-reveal"
