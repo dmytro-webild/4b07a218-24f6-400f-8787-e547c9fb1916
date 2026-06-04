@@ -343,7 +343,7 @@ export default function LandingPage() {
       title="Visit Us or Get in Touch"
       description="Ready to enjoy a premium burger experience? Contact us for reservations, catering inquiries, or any questions you may have. We look forward to serving you!"
       tagAnimation="blur-reveal"
-      imageSrc="http://img.b2bpic.net/free-photo/quebec-city-canada-sep-10-old-street-night-september-10-2012-quebec-city-canada-as-capital-canadian-province-quebec-it-is-one-oldest-cities-north-america_649448-2201.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Eeu6JT7wZbabCTMm8hffTJPbyZ/uploaded-1780551566154-3oyv7ez0.jpg"
       imageAlt="Exterior of All Star Burgers at night"
       mediaAnimation="slide-up"
       inputPlaceholder="Your Email Address"
@@ -393,7 +393,7 @@ export default function LandingPage() {
           ],
         },
       ]}
-      copyrightText="© 2024 All Star Burgers. All rights reserved."
+      copyrightText="© 2026 All Star Burgers. TAJIKISTAN."
     />
   </div>
       </ReactLenis>
