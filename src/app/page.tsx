@@ -82,7 +82,7 @@ export default function LandingPage() {
           handle: "@burgerfan_NYC",
           testimonial: "Absolutely the best burger I've had in Brooklyn! The patty was juicy, the bun was perfect, and the sauce was incredible.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-hispanic-man-smiling-confident-standing-street_839833-16677.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-hispanic-man-smiling-confident-standing-street_839833-16677.jpg?_wi=1",
           imageAlt: "Customer Alex P.",
         },
         {
@@ -153,7 +153,7 @@ export default function LandingPage() {
         },
       ]}
       avatarText="Loved by thousands of Brooklynites"
-      imageSrc="http://img.b2bpic.net/free-photo/front-view-delicious-cheeseburger-dark-background_179666-19332.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/front-view-delicious-cheeseburger-dark-background_179666-19332.jpg?_wi=1"
       imageAlt="Gourmet burger hero image"
       mediaAnimation="slide-up"
       marqueeItems={[
@@ -266,7 +266,7 @@ export default function LandingPage() {
               imageAlt: "Homemade sauce preparation",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-delicious-cheeseburger-dark-background_179666-19332.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-delicious-cheeseburger-dark-background_179666-19332.jpg?_wi=2",
           imageAlt: "close up fresh beef patty cooking",
         },
         {
@@ -283,7 +283,7 @@ export default function LandingPage() {
               imageAlt: "Crispy bacon strips",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/young-hispanic-man-smiling-confident-standing-street_839833-16677.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-hispanic-man-smiling-confident-standing-street_839833-16677.jpg?_wi=2",
           imageAlt: "close up fresh beef patty cooking",
         },
       ]}
