@@ -340,7 +340,7 @@ export default function LandingPage() {
       background={{
         variant: "plain"}}
       tag="Contact Us"
-      title="Visit Us or Get in Touch"
+      title="БО ЯК РАСИДАН БА МО МУРОЧИАТ КУНЕД "
       description="Ready to enjoy a premium burger experience? Contact us for reservations, catering inquiries, or any questions you may have. We look forward to serving you!"
       tagAnimation="blur-reveal"
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Eeu6JT7wZbabCTMm8hffTJPbyZ/uploaded-1780551566154-3oyv7ez0.jpg"
