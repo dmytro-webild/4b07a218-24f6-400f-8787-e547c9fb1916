@@ -255,7 +255,7 @@ export default function LandingPage() {
             "Four Signature Burgers",            "Four Premium Sides",            "Large Family Drink"],
         },
       ]}
-      title="Great Deals & Combos"
+      title="БО КОМБОХОИ МО ТАЬМИ ХАКИКИРО ХИС КУНЕД "
       description="Pair your perfect burger with our delicious sides and drinks. Discover our value-packed combos for a complete meal experience."
       tag="Combos"
       tagAnimation="blur-reveal"
