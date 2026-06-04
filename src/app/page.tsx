@@ -213,7 +213,7 @@ export default function LandingPage() {
           id: "garden-gourmet",          brand: "All Star",          name: "Garden Gourmet (Vegan)",          price: "$17",          rating: 4.5,
           reviewCount: "120",          imageSrc: "http://img.b2bpic.net/free-photo/flat-lay-frame-healthy-food-with-copy-space_23-2148287540.jpg",          imageAlt: "Garden Gourmet Vegan Burger"},
       ]}
-      title="Our Signature Burgers"
+      title="МЕНЮИ ХАМАИ НАМУДИ БУРГЕРХОИ МО "
       description="Explore our diverse menu of gourmet burgers, each a masterpiece designed to tantalize your taste buds. Find your new favorite today."
       tag="Our Menu"
       tagAnimation="blur-reveal"
