@@ -281,7 +281,7 @@ export default function LandingPage() {
           id: "5",          name: "Isabella Chen",          handle: "@brooklyn_bites",          testimonial: "Finally, a burger that exceeds expectations. The Brooklyn Heat has just the right kick, and the freshness of the ingredients shines through. My new favorite!",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-old-man-having-meal-restaurant_23-2148214633.jpg",          imageAlt: "Isabella Chen"},
       ]}
       title="ФИКРХОИ МИЧОЗОНИ МО  "
-      description="Hear from our happy diners who have experienced the premium taste of All Star Burgers. Their words are our greatest reward."
+      description="АКСАРИ МИЗОЧОНИ МО ДАР БОРАИ ТАЬМИ БУРГЕРХО ВА МУХИТИ ОШХОНАИ МО ФИКРХОИ ХУБ БАЕЕН КАРДААНД"
       tag="Reviews"
       tagAnimation="blur-reveal"
       buttonAnimation="blur-reveal"
