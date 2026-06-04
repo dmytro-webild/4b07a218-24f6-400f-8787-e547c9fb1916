@@ -179,7 +179,7 @@ export default function LandingPage() {
           ]
         }
       ]}
-      title="The All Star Difference"
+      title="МАЗЗА ВА ТАЬМИ БУРГЕРХО АЧОИБ "
       description="Discover what makes our burgers the best in Brooklyn. We're committed to excellence in every detail, ensuring a culinary experience that stands out."
       tag="Our Promise"
       tagAnimation="blur-reveal"
